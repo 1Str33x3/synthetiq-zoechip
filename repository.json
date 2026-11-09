@@ -3,7 +3,7 @@
   "repositoryId": "zoechip-library-repository",
   "name": "Zoechip Library",
   "enabled": true,
-  "publishedAtMs": 1794203338609,
+  "publishedAtMs": 1794203796481,
   "bundle": {
     "version": 4,
     "minAppVersion": "8.0.0",
@@ -21,7 +21,7 @@
       "contentType": "video",
       "version": "1.0.4",
       "minAppVersion": "8.0.0",
-      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.4/Zoechip-Library-1.0.4.zip",
+      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.4/Zoechip-Library-1.0.4.zip?verify=1",
       "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.4/Zoechip-Library-1.0.4.zip",
       "sha256": "64ab5956af55661c410c509dfa138af44fcbf44d00074020898f07da96ef90f3",
       "signature": "",
