@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "repositoryId": "zoechip-library-repository",
+  "name": "Zoechip Library",
+  "enabled": true,
+  "modules": [
+    {
+      "id": "zoechip-v1",
+      "moduleId": "zoechip-v1",
+      "name": "Zoechip Library",
+      "moduleFamilyId": "zoechip_v1",
+      "moduleIdentity": "PENDING-OWNER-ALLOCATION",
+      "moduleIdentityNumber": 0,
+      "contentType": "video",
+      "version": "1.0.1",
+      "packageUrl": "https://raw.githubusercontent.com/1Str33x3/synthetiq-zoechip/main/zoechip-v1-1.0.1.zip",
+      "sha256": "7c763ed1320fd107ace370700f14bdf80a39b71305a9d8123ca4d828a1887c4c"
+    }
+  ]
+}
