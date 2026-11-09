@@ -3,13 +3,13 @@
   "repositoryId": "zoechip-library-repository",
   "name": "Zoechip Library",
   "enabled": true,
-  "publishedAtMs": 1794200401630,
+  "publishedAtMs": 1794201775439,
   "bundle": {
-    "version": 2,
+    "version": 3,
     "minAppVersion": "8.0.0",
-    "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/bundle-2/Zoechip-Library-Bundle-2.zip",
-    "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/bundle-2/Zoechip-Library-Bundle-2.zip",
-    "sha256": "5ca04b2152d5a1f738c1124ed883aa9bc5b2f03c644c6494f2336624ad27a352",
+    "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/bundle-3/Zoechip-Library-Bundle-3.zip",
+    "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/bundle-3/Zoechip-Library-Bundle-3.zip",
+    "sha256": "3e70232568183670cdf40b630847d28ea97d64f51c547af8d958b38759c66d3a",
     "signature": ""
   },
   "modules": [
@@ -19,15 +19,17 @@
       "moduleIdentity": "SP-VID-82738-ZOECHIP-TEST",
       "moduleIdentityNumber": 82738,
       "contentType": "video",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "minAppVersion": "8.0.0",
-      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.2/Zoechip-Library-1.0.2.zip",
-      "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.2/Zoechip-Library-1.0.2.zip",
-      "sha256": "b75ec1b7d25067f7dd1494fc404881a1e48a0608a347b5cb57bea5f63fa8d76e",
+      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.3/Zoechip-Library-1.0.3.zip",
+      "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.3/Zoechip-Library-1.0.3.zip",
+      "sha256": "96066dad71930e34f36b587a374384339e7a1f1666b927de5e9268c996dd37e9",
       "signature": "",
-      "publishedAtMs": 1794200401630,
+      "publishedAtMs": 1794201775439,
       "changelog": [
-        "Use a positive testing identity and GitHub release paths for community repository import."
+        "Prefer English audio when VixCloud provides it.",
+        "Add a matched Dragon Ball Super sub/dub fallback through Guts.",
+        "Include up to three live pages in title search."
       ]
     }
   ],
