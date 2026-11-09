@@ -3,29 +3,33 @@
   "repositoryId": "zoechip-library-repository",
   "name": "Zoechip Library",
   "enabled": true,
-  "publishedAtMs": 1794199934400,
+  "publishedAtMs": 1794200401630,
   "bundle": {
-    "version": 1,
+    "version": 2,
     "minAppVersion": "8.0.0",
-    "packageUrl": "https://raw.githubusercontent.com/1Str33x3/synthetiq-zoechip/main/zoechip-bundle-1.zip",
-    "packagePath": "/1Str33x3/synthetiq-zoechip/raw/refs/heads/main/zoechip-bundle-1.zip",
-    "sha256": "4e670a58202f829d1ed6c1baaed008b029db734419a6531c1989dda0b6b05a78"
+    "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/bundle-2/Zoechip-Library-Bundle-2.zip",
+    "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/bundle-2/Zoechip-Library-Bundle-2.zip",
+    "sha256": "5ca04b2152d5a1f738c1124ed883aa9bc5b2f03c644c6494f2336624ad27a352",
+    "signature": ""
   },
   "modules": [
     {
       "moduleId": "zoechip-v1",
-      "id": "zoechip-v1",
-      "name": "Zoechip Library",
       "moduleFamilyId": "zoechip_v1",
-      "moduleIdentity": "PENDING-OWNER-ALLOCATION",
-      "moduleIdentityNumber": 0,
+      "moduleIdentity": "SP-VID-82738-ZOECHIP-TEST",
+      "moduleIdentityNumber": 82738,
       "contentType": "video",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "minAppVersion": "8.0.0",
-      "packageUrl": "https://raw.githubusercontent.com/1Str33x3/synthetiq-zoechip/main/zoechip-v1-1.0.1.zip",
-      "packagePath": "/1Str33x3/synthetiq-zoechip/raw/refs/heads/main/zoechip-v1-1.0.1.zip",
-      "sha256": "7c763ed1320fd107ace370700f14bdf80a39b71305a9d8123ca4d828a1887c4c",
-      "publishedAtMs": 1794199934400
+      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.2/Zoechip-Library-1.0.2.zip",
+      "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.2/Zoechip-Library-1.0.2.zip",
+      "sha256": "b75ec1b7d25067f7dd1494fc404881a1e48a0608a347b5cb57bea5f63fa8d76e",
+      "signature": "",
+      "publishedAtMs": 1794200401630,
+      "changelog": [
+        "Use a positive testing identity and GitHub release paths for community repository import."
+      ]
     }
-  ]
+  ],
+  "signature": ""
 }
