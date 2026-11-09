@@ -3,13 +3,13 @@
   "repositoryId": "zoechip-library-repository",
   "name": "Zoechip Library",
   "enabled": true,
-  "publishedAtMs": 1794201775439,
+  "publishedAtMs": 1794203338609,
   "bundle": {
-    "version": 3,
+    "version": 4,
     "minAppVersion": "8.0.0",
-    "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/bundle-3/Zoechip-Library-Bundle-3.zip",
-    "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/bundle-3/Zoechip-Library-Bundle-3.zip",
-    "sha256": "3e70232568183670cdf40b630847d28ea97d64f51c547af8d958b38759c66d3a",
+    "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/bundle-4/Zoechip-Library-Bundle-4.zip",
+    "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/bundle-4/Zoechip-Library-Bundle-4.zip",
+    "sha256": "ecb6016652b6474d48debf434b659aa8d60464d89eba5b7b1eec8a384a94ac19",
     "signature": ""
   },
   "modules": [
@@ -19,17 +19,17 @@
       "moduleIdentity": "SP-VID-82738-ZOECHIP-TEST",
       "moduleIdentityNumber": 82738,
       "contentType": "video",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "minAppVersion": "8.0.0",
-      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.3/Zoechip-Library-1.0.3.zip",
-      "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.3/Zoechip-Library-1.0.3.zip",
-      "sha256": "96066dad71930e34f36b587a374384339e7a1f1666b927de5e9268c996dd37e9",
+      "packageUrl": "https://github.com/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.4/Zoechip-Library-1.0.4.zip",
+      "packagePath": "/1Str33x3/synthetiq-zoechip/releases/download/module-zoechip-v1-v1.0.4/Zoechip-Library-1.0.4.zip",
+      "sha256": "64ab5956af55661c410c509dfa138af44fcbf44d00074020898f07da96ef90f3",
       "signature": "",
-      "publishedAtMs": 1794201775439,
+      "publishedAtMs": 1794203338609,
       "changelog": [
-        "Prefer English audio when VixCloud provides it.",
-        "Add a matched Dragon Ball Super sub/dub fallback through Guts.",
-        "Include up to three live pages in title search."
+        "Add separate paginated movie and TV catalog sections.",
+        "Add matched Guts fallbacks for Dragon Ball Z and Dragon Ball Super: Beerus; availability varies.",
+        "Keep the English audio preference and existing Dragon Ball Super fallback."
       ]
     }
   ],
