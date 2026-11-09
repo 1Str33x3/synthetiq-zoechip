@@ -3,18 +3,29 @@
   "repositoryId": "zoechip-library-repository",
   "name": "Zoechip Library",
   "enabled": true,
+  "publishedAtMs": 1794199934400,
+  "bundle": {
+    "version": 1,
+    "minAppVersion": "8.0.0",
+    "packageUrl": "https://raw.githubusercontent.com/1Str33x3/synthetiq-zoechip/main/zoechip-bundle-1.zip",
+    "packagePath": "/1Str33x3/synthetiq-zoechip/raw/refs/heads/main/zoechip-bundle-1.zip",
+    "sha256": "4e670a58202f829d1ed6c1baaed008b029db734419a6531c1989dda0b6b05a78"
+  },
   "modules": [
     {
-      "id": "zoechip-v1",
       "moduleId": "zoechip-v1",
+      "id": "zoechip-v1",
       "name": "Zoechip Library",
       "moduleFamilyId": "zoechip_v1",
       "moduleIdentity": "PENDING-OWNER-ALLOCATION",
       "moduleIdentityNumber": 0,
       "contentType": "video",
       "version": "1.0.1",
+      "minAppVersion": "8.0.0",
       "packageUrl": "https://raw.githubusercontent.com/1Str33x3/synthetiq-zoechip/main/zoechip-v1-1.0.1.zip",
-      "sha256": "7c763ed1320fd107ace370700f14bdf80a39b71305a9d8123ca4d828a1887c4c"
+      "packagePath": "/1Str33x3/synthetiq-zoechip/raw/refs/heads/main/zoechip-v1-1.0.1.zip",
+      "sha256": "7c763ed1320fd107ace370700f14bdf80a39b71305a9d8123ca4d828a1887c4c",
+      "publishedAtMs": 1794199934400
     }
   ]
 }
